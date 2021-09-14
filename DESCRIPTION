@@ -1,8 +1,8 @@
 Package: IPMbook
 Type: Package
 Title: Functions and Data for the Book 'Integrated Population Models'
-Version: 0.1.1
-Date: 2021-07-29
+Version: 0.1.2
+Date: 2021-09-14
 Depends: R (>= 2.10)
 Imports: stats, abind
 Suggests:
@@ -32,12 +32,11 @@ Authors@R: c(
 BugReports: https://github.com/mikemeredith/IPMbook/issues
 Description: Provides functions and data sets to accompany the  book 'Integrated Population Models: Theory and Ecological Applications with R and JAGS' by Michael Schaub and Marc Kéry (ISBN: 9780128205648).
 License: GPL (>= 3)
-URL:
-        https://www.elsevier.com/books/integrated-population-models/schaub/978-0-12-820564-8
+URL: https://www.vogelwarte.ch/de/projekte/publikationen/ipm/
 NeedsCompilation: no
 Encoding: UTF-8
 Language: en-US
-Packaged: 2021-07-29 06:43:14 UTC; User
+Packaged: 2021-09-14 01:09:33 UTC; User
 Author: Michael Schaub [aut],
   Marc Kéry [aut],
   Mike Meredith [aut, cre],
@@ -65,4 +64,4 @@ Author: Michael Schaub [aut],
     swallow, wryneck)
 Maintainer: Mike Meredith <mike@mmeredith.net>
 Repository: CRAN
-Date/Publication: 2021-07-29 10:40:02 UTC
+Date/Publication: 2021-09-14 04:20:06 UTC
