@@ -1,8 +1,8 @@
 Package: IPMbook
 Type: Package
 Title: Functions and Data for the Book 'Integrated Population Models'
-Version: 0.1.2
-Date: 2021-09-14
+Version: 0.1.3
+Date: 2021-12-10
 Depends: R (>= 2.10)
 Imports: stats, abind
 Suggests:
@@ -36,7 +36,7 @@ URL: https://www.vogelwarte.ch/de/projekte/publikationen/ipm/
 NeedsCompilation: no
 Encoding: UTF-8
 Language: en-US
-Packaged: 2021-09-14 01:09:33 UTC; User
+Packaged: 2021-12-10 08:13:50 UTC; User
 Author: Michael Schaub [aut],
   Marc Kéry [aut],
   Mike Meredith [aut, cre],
@@ -64,4 +64,4 @@ Author: Michael Schaub [aut],
     swallow, wryneck)
 Maintainer: Mike Meredith <mike@mmeredith.net>
 Repository: CRAN
-Date/Publication: 2021-09-14 04:20:06 UTC
+Date/Publication: 2021-12-10 09:10:06 UTC
